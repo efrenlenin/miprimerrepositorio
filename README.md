@@ -1,2 +1,3 @@
 # miprimerrepositorio
-mi primera vez en Gituhub
+mi primera vez en GituHub
+hola mundo
